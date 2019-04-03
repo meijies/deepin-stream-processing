@@ -2,7 +2,10 @@
 流处理相关文章，书籍收集，翻译，整理
 ## 文章
 + [什么是流处理](what-is-stream.md)[翻译]
++ [流处理技术缪见大消除](https://www.infoq.cn/article/2016/12/error-stream-proce-eliminate)[转载]
 + [构建流和实时处理应用的十三种模式](13-stream-processing-patterns-for-building-streaming-and-realtime-application.md)[翻译]
++ [流处理模式匹配](http://support.huawei.com/huaweiconnect/enterprise/huawei/m/ViewThread.html?tid=327735)[转载]
++ [基于事件流构建的服务](https://github.com/jasonGeng88/blog/blob/master/201706/event.md)[转载]
 + [流处理101:十分钟从SQL到流式SQL](https://wso2.com/library/articles/2018/02/stream-processing-101-from-sql-to-streaming-sql-in-ten-minutes/)[英文] 
 + [超越批处理的世界-流处理101](https://www.zhouyongyi.com/the-world-beyond-batch-streaming-101/)
 + [超越批处理的世界-流处理102](https://www.zhouyongyi.com/the-world-beyond-batch-streaming-102/)
@@ -23,6 +26,7 @@
 + [使用Flink进行深度分析](https://acmsocc.github.io/2018/slides/socc18-slides-kunft.pdf)[英文]
 
 ## 论文
++ [分布式流处理技术综述](http://idke.ruc.edu.cn/publications/special%20issues/Big%20Data%20Management/Distributed%20Stream%20Processing%20A%20Survey.pdf)
 + [可扩展的分布式流处理](http://nms.csail.mit.edu/papers/CIDR_CRC.pdf)[英文]
 + [Apache Storm论文](https://cs.brown.edu/courses/cs227/archives/2015/papers/ss-storm.pdf)[英文]
 + [Apache Flink论文](http://asterios.katsifodimos.com/assets/publications/flink-deb.pdf)[英文]
