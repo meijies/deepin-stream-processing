@@ -24,6 +24,7 @@
 + [大数据管理和Apache Flink](http://helper.ipam.ucla.edu/publications/dmc2017/dmc2017_14072.pdf)[英文][PPT]
 + [Apache Flink--快速可信赖的大规模数据处理](http://events17.linuxfoundation.org/sites/events/files/slides/flink-apachecon2.pdf)[英文][PPT]
 + [使用Flink进行深度分析](https://acmsocc.github.io/2018/slides/socc18-slides-kunft.pdf)[英文]
++ [Spark Streaming vs Flink vs Storm vs Kafka Streams vs Samza : 选择你的流处理框架](https://medium.com/@chandanbaranwal/spark-streaming-vs-flink-vs-storm-vs-kafka-streams-vs-samza-choose-your-stream-processing-91ea3f04675b)
 
 ## 论文
 + [分布式流处理技术综述](http://idke.ruc.edu.cn/publications/special%20issues/Big%20Data%20Management/Distributed%20Stream%20Processing%20A%20Survey.pdf)
@@ -31,6 +32,7 @@
 + [Apache Storm论文](https://cs.brown.edu/courses/cs227/archives/2015/papers/ss-storm.pdf)[英文]
 + [Apache Flink论文](http://asterios.katsifodimos.com/assets/publications/flink-deb.pdf)[英文]
 + [实时应用的八个需求](http://cs.brown.edu/~ugur/8rulesSigRec.pdf)[英文]
++ [分布式流处理基准测试-2018](https://arxiv.org/pdf/1802.08496.pdf)
 
 ## 书籍
 + [流应用的快数据架构](https://learning.oreilly.com/library/view/fast-data-architectures/9781492038771/)[英文]
