@@ -1,14 +1,14 @@
 # 流处理
 流处理相关文章，书籍收集，翻译，整理
 ## 深入流处理
-+ [ ][流处理简历史]()
-+ [ ][窗口]()[DOING]
-+ [ ][有向五环图]()
-+ [ ][容错机制]()
-+ [ ][背压]()
-+ [ ][流处理统计方法]()
-+ [ ][常见流处理模式]()
-+ [ ][常见流处理用例]()
++ [ ] [流处理简历史]()
++ [ ] [窗口]()
++ [ ] [有向五环图]()
++ [ ] [容错机制]()
++ [ ] [背压]()
++ [ ] [流处理统计方法]()
++ [ ] [常见流处理模式]()
++ [ ] [常见流处理用例]()
 
 ## 文章
 + [什么是流处理](what-is-stream.md)[翻译]
@@ -57,4 +57,4 @@
 + [SlideShare Flink Forward Presentations](https://www.slideshare.net/FlinkForward/presentations)[英文]
 
 ## TODO
-+ [ ][理解流处理](making-sence-of-stream-processing/README.md)
++ [ ] [理解流处理](making-sence-of-stream-processing/README.md)
