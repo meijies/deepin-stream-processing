@@ -2,14 +2,14 @@
 Stream processing related articles, papers, books list
 
 ## Articles
-+ [waht is stream](https://wso2.com/library/articles/2018/05/what-is-stream-processing/)[中文翻译](what-is-stream.md)
-+ [stream processing myths debunked](https://dataconomy.com/2017/02/stream-processing-myths-debunked/)[中文翻译](https://www.infoq.cn/article/2016/12/error-stream-proce-eliminate)
-+ [13 stream processing patterns for building streaming and realtime application](https://iwringer.wordpress.com/2015/08/03/patterns-for-streaming-realtime-analytics/)[中文翻译](13-stream-processing-patterns-for-building-streaming-and-realtime-application.md)
++ [waht is stream](https://wso2.com/library/articles/2018/05/what-is-stream-processing/) | [中文翻译](what-is-stream.md)
++ [stream processing myths debunked](https://dataconomy.com/2017/02/stream-processing-myths-debunked/) | [中文翻译](https://www.infoq.cn/article/2016/12/error-stream-proce-eliminate)
++ [13 stream processing patterns for building streaming and realtime application](https://iwringer.wordpress.com/2015/08/03/patterns-for-streaming-realtime-analytics/) | [中文翻译](13-stream-processing-patterns-for-building-streaming-and-realtime-application.md)
 + [流处理模式匹配](http://support.huawei.com/huaweiconnect/enterprise/huawei/m/ViewThread.html?tid=327735)
 + [基于事件流构建的服务](https://github.com/jasonGeng88/blog/blob/master/201706/event.md)
 + [stream processing 101 from sql to streaming sql in ten minutes](https://wso2.com/library/articles/2018/02/stream-processing-101-from-sql-to-streaming-sql-in-ten-minutes/)
-+ [the world beyond batch streaming 101](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)[中文翻译](https://www.zhouyongyi.com/the-world-beyond-batch-streaming-101/)
-+ [the world beyond batch streaming 102](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102)[中文翻译](https://www.zhouyongyi.com/the-world-beyond-batch-streaming-102/)
++ [the world beyond batch streaming 101](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101) | [中文翻译](https://www.zhouyongyi.com/the-world-beyond-batch-streaming-101/)
++ [the world beyond batch streaming 102](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102) | [中文翻译](https://www.zhouyongyi.com/the-world-beyond-batch-streaming-102/)
 + [实时流处理系统容错机制（-）综述](https://blog.csdn.net/qq_21125183/article/details/80829483)
 + [实时流处理系统反压机制综述](https://blog.csdn.net/qq_21125183/article/details/80708142)
 + [breaking news everything is an event](https://blog.florimondmanca.com/breaking-news-everything-is-an-event)
