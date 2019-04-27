@@ -2,7 +2,7 @@
 Stream processing related articles, papers, books list
 
 ## Articles
-+ [waht is stream](https://wso2.com/library/articles/2018/05/what-is-stream-processing/) | [中文翻译](what-is-stream.md)
++ [waht is stream processing](https://wso2.com/library/articles/2018/05/what-is-stream-processing/) | [中文翻译](what-is-stream.md)
 + [stream processing myths debunked](https://dataconomy.com/2017/02/stream-processing-myths-debunked/) | [中文翻译](https://www.infoq.cn/article/2016/12/error-stream-proce-eliminate)
 + [13 stream processing patterns for building streaming and realtime application](https://iwringer.wordpress.com/2015/08/03/patterns-for-streaming-realtime-analytics/) | [中文翻译](13-stream-processing-patterns-for-building-streaming-and-realtime-application.md)
 + [流处理模式匹配](http://support.huawei.com/huaweiconnect/enterprise/huawei/m/ViewThread.html?tid=327735)
